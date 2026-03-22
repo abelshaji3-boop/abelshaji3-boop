@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on building web applications and improving my frontend skills  <br>🤝 I’m looking to collaborate on web development projects  <br>🧠 I’m looking for help with advanced JavaScript and backend concepts  <br>🌱 I’m currently learning MERN Stack Development  <br>💬 Ask me about JavaScript, React, and UI design  <br>⚡ Fun fact: I’m focused on becoming a top 1% developer
 
+## 🌐 My portfolio 
+🔗 [View Portfolio](https://abelshaji3-boop.github.io/portfolio/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fr.abelll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abel-s-31106b319) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abel S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abelshaji3@gmail.com) 
